@@ -5,7 +5,7 @@ numpy\
 matplotlib\
 seaborn\
 BeautifulSoup (Web Scraping)\
-Plotly (Chloropleth plot)
+Plotly (Choropleth plot)
 ## Data obtained from data.world website.
 ## Analysis and insights are presented in the notebook.
 
