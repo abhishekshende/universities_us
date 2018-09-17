@@ -9,4 +9,4 @@ Plotly (Chloropleth plot)
 ## Data obtained from data.world website.
 ## Analysis and insights are presented in the notebook.
 
-
+![state_map](https://github.com/abhishekshende/universities_us/blob/master/newplot.png)
