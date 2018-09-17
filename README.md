@@ -1,4 +1,6 @@
-# Analysis of ranking of universites and correlation with different factors.
+# Analyzing ranks of US universities
+Analysis of ranking of universites and correlation with different factors.
+
 ## Libraries used -
 pandas\
 numpy\
